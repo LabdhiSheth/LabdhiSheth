@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/labdhi-sheth-5098a8179/)
 <!-- [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@labdheesheth)](https://medium.com/@labdheesheth) -->
 
-🔭 &nbsp;I am currently looking for internships in Machine Learning and Web Development industry.\
-💡 &nbsp;Self-motivated human in leadership, proactive problem solver with excellent communication abilities, looking for an opportunity to work with an organization to learn, innovate, and evolve continuously along with adding value to the organization and clients.\
-✍️ &nbsp;Apart from acedemics, I love spending my time playing badminton or swimming. I am a dancer by soul, its a way of an expression for me.
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
